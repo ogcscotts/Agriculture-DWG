@@ -11,8 +11,8 @@
 :sectanchors:
 :source-highlighter: pygments
 :submission-date: 2023-01-25
-:approval-date: yyyy-MM-dd
-:document-number: TBD
+:approval-date: 2023-05-07
+:document-number: 23-009r2
 
 <<<
 [cols = ">",frame = "none",grid = "none"]
@@ -34,7 +34,7 @@
 [cols = "^", frame = "none", grid = "none"]
 |===
 |*Copyright notice*
-|Copyright (C) 2020 Open Geospatial Consortium
+|Copyright (C) 2023 Open Geospatial Consortium
 |To obtain additional rights of use, visit http://www.opengeospatial.org/legal/
 |===
 
